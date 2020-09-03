@@ -1,0 +1,6 @@
+Qtd Clientes: 2
+Qtd Vendedores: 2
+Id Venda Mais Cara: 10
+Pior Vendedor: Paulo
+
+Arquivo gerado em 03/09/2020 12:39:18

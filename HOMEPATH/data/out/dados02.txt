@@ -1,0 +1,6 @@
+Qtd Clientes: 3
+Qtd Vendedores: 2
+Id Venda Mais Cara: 12
+Pior Vendedor: Flavia
+
+Arquivo gerado em 03/09/2020 12:39:18
